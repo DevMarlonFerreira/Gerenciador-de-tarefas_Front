@@ -10,7 +10,6 @@ Frontend da plataforma registro e gerenciamento de tarefas.
 <h2 tabindex="-1" dir="auto"><a id="user-content--built-with" class="anchor" aria-hidden="true" tabindex="-1" href="#-built-with">🔧 Built With 🔧</h2>
 
 [![React][React.org]][React-url]
-[![ReactRouter][ReactRouter.org]][ReactRouter-url]
 [![StyledComponents][Styledcomponents.org]][Styledcomponents-url]
 [![Html][Html.org]][Html-url]
 [![Css][Css.org]][Css-url]
@@ -20,8 +19,6 @@ Frontend da plataforma registro e gerenciamento de tarefas.
 
 [React.org]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev/
-[ReactRouter.org]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
-[ReactRouter-url]: https://react.dev/
 [Styledcomponents.org]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 [Styledcomponents-url]: https://styled-components.com/
 [Html.org]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
